@@ -5,7 +5,7 @@
 ### Setup
 
 ```sh
-pip install -S g6-plugin-xquark
+npm install -S g6-plugin-xquark
 ```
 
 需要先安装好`@antv/g6`  
@@ -15,7 +15,7 @@ pip install -S g6-plugin-xquark
 ### Use
 
 ```
-const {Minimap} = require('g6-plugin-xquark')
+const { Minimap } = require('g6-plugin-xquark')
 ```
 
 
