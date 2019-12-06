@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/wuchuanxun/g6-plugin-xquark/issues"
   },
-  "homepage": "https://github.com/wuchuanxun/g6-plugin-xquark#readme"
+  "homepage": "https://github.com/wuchuanxun/g6-plugin-xquark#readme",
+  "dependencies": {
+    "@antv/g6": "^3.2.4"
+  }
 }
