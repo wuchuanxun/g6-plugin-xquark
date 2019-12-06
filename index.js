@@ -1,3 +1,3 @@
 const Minimap = require('./plugins/Minimap')
 
-module.Minimap = Minimap
+module.exports.Minimap = Minimap
