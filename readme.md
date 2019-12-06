@@ -15,7 +15,7 @@ pip install -S g6-plugin-xquark
 ### Use
 
 ```
-const Minimap = require('g6-plugin-xquark/plugins/minimap')
+const {Minimap} = require('g6-plugin-xquark')
 ```
 
 

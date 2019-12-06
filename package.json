@@ -1,0 +1,24 @@
+{
+  "name": "g6-plugin-xquark",
+  "version": "1.0.0",
+  "description": "plugin for g6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wuchuanxun/g6-plugin-xquark.git"
+  },
+  "keywords": [
+    "g6",
+    "plugin",
+    "minimap"
+  ],
+  "author": "wuchuanxun@outlook.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/wuchuanxun/g6-plugin-xquark/issues"
+  },
+  "homepage": "https://github.com/wuchuanxun/g6-plugin-xquark#readme"
+}
