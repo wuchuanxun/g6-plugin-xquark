@@ -41,4 +41,4 @@ const { Minimap } = require('g6-plugin-xquark')
 
 ### 效果预览
 
-![image-20191206165239073](.\assets\image-20191206165239073.png)
+![image-20191206165239073](https://github.com/wuchuanxun/g6-plugin-xquark/blob/master/assets/image-20191206165239073.png)
